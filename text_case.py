@@ -1,7 +1,8 @@
+print("Original String: ",str(input()))
 
-print(str(input()).upper())
+print("String in uppercase: ",str(input()).upper())
 
-print(str(input()).lower())
+print("String in lowercase: ",str(input()).lower())
 
 
 
